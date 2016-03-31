@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "legacy code base",
   "author": "Andrew Berg",
+  "repository": "https://github.com/aberg-bit9/old-code",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
